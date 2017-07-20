@@ -1,0 +1,14 @@
+E:\Cs\4th Year\Color_map\color_map\bin\Debug\Color_map.dll
+E:\Cs\4th Year\Color_map\color_map\bin\Debug\Color_map.pdb
+E:\Cs\4th Year\Color_map\color_map\obj\Debug\Color_map.csprojResolveAssemblyReference.cache
+E:\Cs\4th Year\Color_map\color_map\obj\Debug\color_map.UserControl1.resources
+E:\Cs\4th Year\Color_map\color_map\obj\Debug\Color_map.csproj.GenerateResource.Cache
+E:\Cs\4th Year\Color_map\color_map\obj\Debug\Color_map.dll
+E:\Cs\4th Year\Color_map\color_map\obj\Debug\Color_map.pdb
+E:\Cs\4th Year\Visualization\Color_map\color_map\bin\Debug\Color_map.dll
+E:\Cs\4th Year\Visualization\Color_map\color_map\bin\Debug\Color_map.pdb
+E:\Cs\4th Year\Visualization\Color_map\color_map\obj\Debug\Color_map.csprojResolveAssemblyReference.cache
+E:\Cs\4th Year\Visualization\Color_map\color_map\obj\Debug\color_map.UserControl1.resources
+E:\Cs\4th Year\Visualization\Color_map\color_map\obj\Debug\Color_map.csproj.GenerateResource.Cache
+E:\Cs\4th Year\Visualization\Color_map\color_map\obj\Debug\Color_map.dll
+E:\Cs\4th Year\Visualization\Color_map\color_map\obj\Debug\Color_map.pdb

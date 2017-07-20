@@ -1,0 +1,10 @@
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\bin\x86\Debug\Visualization_project.exe.config
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\bin\x86\Debug\Visualization_project.exe
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\bin\x86\Debug\Visualization_project.pdb
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\bin\x86\Debug\Color_map.dll
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\bin\x86\Debug\Color_map.pdb
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\obj\x86\Debug\Visualization_project.Form1.resources
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\obj\x86\Debug\Visualization_project.Properties.Resources.resources
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\obj\x86\Debug\Visualization_project.csproj.GenerateResource.Cache
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\obj\x86\Debug\Visualization_project.exe
+E:\Cs\4th Year\Visualization\Visualization_project\Visualization_project\obj\x86\Debug\Visualization_project.pdb

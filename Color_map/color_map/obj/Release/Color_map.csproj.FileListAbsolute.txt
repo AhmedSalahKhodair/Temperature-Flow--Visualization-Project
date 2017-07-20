@@ -1,0 +1,7 @@
+E:\Cs\4th Year\Color_map\Task\bin\Release\Color_map.dll
+E:\Cs\4th Year\Color_map\Task\bin\Release\Color_map.pdb
+E:\Cs\4th Year\Color_map\Task\obj\Release\Color_map.csprojResolveAssemblyReference.cache
+E:\Cs\4th Year\Color_map\Task\obj\Release\color_map.UserControl1.resources
+E:\Cs\4th Year\Color_map\Task\obj\Release\Color_map.csproj.GenerateResource.Cache
+E:\Cs\4th Year\Color_map\Task\obj\Release\Color_map.dll
+E:\Cs\4th Year\Color_map\Task\obj\Release\Color_map.pdb

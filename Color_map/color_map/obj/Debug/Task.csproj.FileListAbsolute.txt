@@ -1,0 +1,7 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\bin\Debug\Task.dll
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\bin\Debug\Task.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\obj\Debug\Task.UserControl1.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\obj\Debug\Task.dll
+c:\users\ahmed\documents\visual studio 2015\Projects\Task\Task\obj\Debug\Task.pdb
